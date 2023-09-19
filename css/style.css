@@ -27,7 +27,7 @@ p{
 img{
     width: 250px;
     display: block;
-    margin: 0 auto;
+    margin: auto;
     border: 10px dashed #ffffff;
 }
 
@@ -74,7 +74,7 @@ div.yellow p{
 }
 
 div.green{
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
